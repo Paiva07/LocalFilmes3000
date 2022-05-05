@@ -1,0 +1,21 @@
+.buttonContainer{
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  padding: 0.5rem;
+  margin: auto;
+  padding-top: 1rem;
+}
+
+.buttonLogin{
+  padding: 0.6rem;
+  border-radius: 20px;
+  border: none;
+  border: 1px solid black;
+  cursor: pointer;
+  color: white;
+  background: rgb(84,84,84);
+  background: radial-gradient(circle, rgba(84,84,84,1) 0%, rgba(24,24,24,1) 100%);
+  
+
+}
