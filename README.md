@@ -1,11 +1,12 @@
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
 </h4>
-<h2>Tecnologias Utilizadas</h2>
-- ``JavaScript``
-- ``React``
-- ``Express``
-- 
+<h2>✔️ Tecnologias Utilizadas</h2>
+<ul>
+<li>JavaScript</li>
+<li>React</li>
+<li>Express</li>
+</ul>
  <h2>📁 Acesso ao projeto</h2>
  <p>Clonar o projeto através do link https://github.com/Paiva07/LocalFilmes3000.git</p>
  
